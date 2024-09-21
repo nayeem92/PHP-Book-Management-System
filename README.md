@@ -54,7 +54,7 @@ Below are some screenshots of the application:
 *Books get added to the list instantly*
 
 ![Screenshot 2](screenshots/clear-books.PNG)
-*We can clear the books which resets the session and empties the array *
+*We can clear the books which resets the session and empties the array.*
 
 ![Screenshot 3](screenshots/displaying-books.PNG)
 *We can see all the books right away after adding.*
